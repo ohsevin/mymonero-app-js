@@ -77,7 +77,7 @@
   "devDependencies": {
     "cross-env": "^7.0.2",
     "electron": "^8.5.2",
-    "electron-builder": "^22.8.x",
+    "electron-builder": "^24.13.x",
     "electron-notarize": "^1.0.0",
     "eslint": "5.6.0",
     "request": "2.88.0",
