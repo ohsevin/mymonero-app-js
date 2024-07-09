@@ -59,13 +59,13 @@
     "node": "12.4.0"
   },
   "dependencies": {
-    "async": "3.1.0",
-    "axios": "^0.21.1",
+    "async": "3.2.2",
+    "axios": "^0.28.0",
     "bitcoin-address-validation": "^1.0.2",
     "dotenv": "^8.2.0",
     "electron-context-menu": "0.15.1",
     "electron-log": "3.0.9",
-    "electron-updater": "4.2.0",
+    "electron-updater": "6.2.1",
     "fastclick": "1.0.6",
     "jsqr": "1.1.1",
     "mymonero-exchange": "^0.1.5",
@@ -76,13 +76,13 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.2",
-    "electron": "^8.5.2",
-    "electron-builder": "^22.8.x",
+    "electron": "^22.3.25",
+    "electron-builder": "^24.13.x",
     "electron-notarize": "^1.0.0",
     "eslint": "5.6.0",
-    "request": "2.88.0",
-    "webpack": "4.41.2",
-    "webpack-cli": "3.3.10",
+    "request": "2.88.2",
+    "webpack": "5.92.1",
+    "webpack-cli": "5.1.4",
     "webpack-merge": "4.2.2",
     "worker-loader": "2.0.0"
   }
